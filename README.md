@@ -9,6 +9,6 @@ In the second task, it has determined which subscription price provides better R
 
 **A-B test:**
 
-  In this folder I have included all the scripts and other additional files that I used for data processing and data analysis.
+  - In this folder I have included all the scripts and other additional files that I used for data processing and data analysis.
   
-  Also, here is a Tableau dashboard for these split tests.
+  - Also, here is a Tableau dashboard for these split tests.
