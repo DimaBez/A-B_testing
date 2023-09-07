@@ -8,5 +8,7 @@ In the first task, my solution has determined which design of the button gives t
 In the second task, it has determined which subscription price provides better ROI.
 
 **A-B test:**
+
   In this folder I have included all the scripts and other additional files that I used for data processing and data analysis.
+  
   Also, here is a Tableau dashboard for these split tests.
